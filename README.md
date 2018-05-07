@@ -9,3 +9,6 @@ use echart with java
 > 项目启动
 * localhost:8080/Project  后台登陆用admin 其余任何名字进入前台，密码123456
 * sql文件在project下
+* mysql 版本 mysql-install-community-5.7.22.1.msi
+* tomcat 版本 apache-tomcat-9.0.2-windows-x64
+* mysql.jar 版本 
