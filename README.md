@@ -11,4 +11,4 @@ use echart with java
 * sql文件在project下
 * mysql 版本 mysql-install-community-5.7.22.1.msi
 * tomcat 版本 apache-tomcat-9.0.2-windows-x64
-* mysql.jar 版本 
+* mysql.jar 版本  mysql-connector-java-5.1.2-bin.jar
